@@ -13,7 +13,7 @@ body{
   
      justify-content: center;
      align-items: center;
-     background-color: #B94FFF;
+     background-color: rgba(76, 68, 68, 0.751);
 
       
      
@@ -70,10 +70,7 @@ button{
     
 
 }
-#b2:hover{
-    color: #b7e62a;
 
-}
 #eql{
     width: 115px;
     background-color: #FF7817;
